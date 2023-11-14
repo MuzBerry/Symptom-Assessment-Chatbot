@@ -1,0 +1,183 @@
+{
+  "intent": [
+    {
+      "Medicine_Number": "Medicine1",
+      "Medicine Name": ["Azax 500 Tablet", "Azax", "500", "Tablet"],
+      "Uses": ["Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "71.25"
+    },
+    {
+      "Medicine_Number": "Medicine2",
+      "Medicine Name": ["Aldactone Tablet", "Aldactone", "Tablet"],
+      "Uses": [
+        "Hypertension (high blood pressure)",
+        "Edema",
+        "Low potassium",
+        "Heart failure"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "31.8"
+    },
+    {
+      "Medicine_Number": "Medicine3",
+      "Medicine Name": ["Axcer  90mg Tablet", "Axcer", "90mg", "Tablet"],
+      "Uses": ["Prevention of heart attack and stroke"],
+      "Prescription": "Prescription Required",
+      "MRP": "420"
+    },
+    {
+      "Medicine_Number": "Medicine4",
+      "Medicine Name": ["Antiflu 75mg Capsule", "Antiflu", "75mg", "Capsule"],
+      "Uses": ["Influenza (flu)"],
+      "Prescription": "Prescription Required",
+      "MRP": "660.66"
+    },
+    {
+      "Medicine_Number": "Medicine5",
+      "Medicine Name": ["Altraday Capsule SR", "Altraday", "Capsule", "SR"],
+      "Uses": ["Pain relief"],
+      "Prescription": "Prescription Required",
+      "MRP": "112"
+    },
+    {
+      "Medicine_Number": "Medicine6",
+      "Medicine Name": ["Amoxyclav 625 Tablet", "Amoxyclav", "625", "Tablet"],
+      "Uses": ["Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "113.25"
+    },
+    {
+      "Medicine_Number": "Medicine7",
+      "Medicine Name": ["Azoran Tablet", "Azoran", "Tablet"],
+      "Uses": [
+        "Prevention of organ rejection in transplant patients",
+        "Rheumatoid arthritis"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "106.1"
+    },
+    {
+      "Medicine_Number": "Medicine8",
+      "Medicine Name": ["Avomine Tablet", "Avomine", "Tablet"],
+      "Uses": [
+        "Nausea",
+        "Vomiting",
+        "Treatment of Allergic conditions",
+        "Motion sickness"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "46.27"
+    },
+    {
+      "Medicine_Number": "Medicine9",
+      "Medicine Name": ["Amlokind 5 Tablet", "Amlokind", "5", "Tablet"],
+      "Uses": [
+        "Hypertension (high blood pressure)",
+        "Prevention of Angina (heart-related chest pain)"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "13.27"
+    },
+    {
+      "Medicine_Number": "Medicine10",
+      "Medicine Name": ["Ativan 2mg Tablet", "Ativan", "2mg", "Tablet"],
+      "Uses": [
+        "Treatment of Short term anxiety",
+        "Treatment of Anxiety disorder"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "82.55"
+    },
+    {
+      "Medicine_Number": "Medicine11",
+      "Medicine Name": ["Azicip 500 Tablet", "Azicip", "500", "Tablet"],
+      "Uses": ["Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "71.33"
+    },
+    {
+      "Medicine_Number": "Medicine12",
+      "Medicine Name": [
+        "Betadine 2% Gargle Mint",
+        "Betadine",
+        "2%",
+        "Gargle",
+        "Mint"
+      ],
+      "Uses": [
+        "Treatment of Mouth infection",
+        "Treatment of Sore throat",
+        "Treatment of Dry mouth"
+      ],
+      "Prescription": "N",
+      "MRP": "140"
+    },
+    {
+      "Medicine_Number": "Medicine13",
+      "Medicine Name": ["Benadryl Syrup", "Benadryl", "Syrup"],
+      "Uses": ["Cough"],
+      "Prescription": "Prescription Required",
+      "MRP": "118"
+    },
+    {
+      "Medicine_Number": "Medicine14",
+      "Medicine Name": ["Bro Zedex  Syrup", "Bro", "Zedex", "Syrup"],
+      "Uses": ["Cough"],
+      "Prescription": "Prescription Required",
+      "MRP": "129.75"
+    },
+    {
+      "Medicine_Number": "Medicine15",
+      "Medicine Name": ["Betnovate C Cream", "Betnovate", "C", "Cream"],
+      "Uses": [
+        "Bacterial skin infections",
+        "Fungal skin infections",
+        "Skin conditions with inflammation & itching"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "53.3"
+    },
+    {
+      "Medicine_Number": "Medicine16",
+      "Medicine Name": [
+        "BandyPlusChewableTablet",
+        "Bandy",
+        "Plus",
+        "Chewable",
+        "Tablet"
+      ],
+      "Uses": ["Worm infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "25"
+    },
+    {
+      "Medicine_Number": "Medicine17",
+      "Medicine Name": ["Betnesol Tablet", "Betnesol", "Tablet"],
+      "Uses": ["Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "12.85"
+    },
+    {
+      "Medicine_Number": "Medicine18",
+      "Medicine Name": ["Brufen 400 Tablet", "Brufen", "400", "Tablet"],
+      "Uses": ["Pain relief", "Fever"],
+      "Prescription": "Prescription Required",
+      "MRP": "11.59"
+    },
+    {
+      "Medicine_Number": "Medicine19",
+      "Medicine Name": ["Brilinta 90mg Tablet", "Brilinta", "90mg", "Tablet"],
+      "Uses": ["Prevention of heart attack and stroke"],
+      "Prescription": "Prescription Required",
+      "MRP": "420"
+    },
+    {
+      "Medicine_Number": "Medicine20",
+      "Medicine Name": ["Betadine 10% Solution", "Betadine", "10%", "Solution"],
+      "Uses": ["Prevention of Wound infection"],
+      "Prescription": "N",
+      "MRP": "104.16"
+    }
+  ]
+}

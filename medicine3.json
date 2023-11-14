@@ -1,0 +1,106 @@
+{
+  "intent": [
+    {
+      "Medicine_Number": "Medicine1134",
+      "Medicine Name": "Buvalor 10mg Transdermal Patch",
+      "Uses": [
+        "Treatment of Moderate to severe pain Treatment of Opioid (Morphine) dependence"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "2400"
+    },
+    {
+      "Medicine_Number": "Medicine1135",
+      "Medicine Name": "Byloza Tablet",
+      "Uses": ["Treatment of Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "132"
+    },
+    {
+      "Medicine_Number": "Medicine1136",
+      "Medicine Name": "Bilambic M 20mg/10mg Tablet",
+      "Uses": ["Treatment of Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "90"
+    },
+    {
+      "Medicine_Number": "Medicine1137",
+      "Medicine Name": "Betagel-G Cream",
+      "Uses": ["Bacterial skin infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "16"
+    },
+    {
+      "Medicine_Number": "Medicine1138",
+      "Medicine Name": "Bilagra M 20mg/10mg Tablet",
+      "Uses": ["Treatment of Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "158"
+    },
+    {
+      "Medicine_Number": "Medicine1139",
+      "Medicine Name": "Betadine 5% Ointment",
+      "Uses": ["Prevention of Wound infection"],
+      "Prescription": "N",
+      "MRP": "67"
+    },
+    {
+      "Medicine_Number": "Medicine1140",
+      "Medicine Name": "Billargic M Tablet",
+      "Uses": ["Treatment of Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "160"
+    },
+    {
+      "Medicine_Number": "Medicine1141",
+      "Medicine Name": "Bimat LS Eye Drop",
+      "Uses": ["Ocular hypertension Glaucoma"],
+      "Prescription": "Prescription Required",
+      "MRP": "222"
+    },
+    {
+      "Medicine_Number": "Medicine1142",
+      "Medicine Name": "Betnelan Tablet",
+      "Uses": ["Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "10.65"
+    },
+    {
+      "Medicine_Number": "Medicine1143",
+      "Medicine Name": "Budamate 400 Transhaler",
+      "Uses": ["Asthma Chronic obstructive pulmonary disease (COPD)"],
+      "Prescription": "Prescription Required",
+      "MRP": "395.11"
+    },
+    {
+      "Medicine_Number": "Medicine1144",
+      "Medicine Name": "Benitowa 4 Tablet",
+      "Uses": [
+        "Hypertension (high blood pressure) Prevention of Angina (heart-related chest pain)"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "106"
+    },
+    {
+      "Medicine_Number": "Medicine1145",
+      "Medicine Name": "Budetrol 200 Inhaler",
+      "Uses": ["Asthma Chronic obstructive pulmonary disease (COPD)"],
+      "Prescription": "Prescription Required",
+      "MRP": "316.03"
+    },
+    {
+      "Medicine_Number": "Medicine1146",
+      "Medicine Name": "Baclof OD 20 Tablet ER",
+      "Uses": ["Muscle relaxation"],
+      "Prescription": "Prescription Required",
+      "MRP": "259"
+    },
+    {
+      "Medicine_Number": "Medicine1147",
+      "Medicine Name": "Biovac A Vaccine",
+      "Uses": ["Prevention of Hepatitis A infection"],
+      "Prescription": "Prescription Required",
+      "MRP": "1600"
+    }
+  ]
+}

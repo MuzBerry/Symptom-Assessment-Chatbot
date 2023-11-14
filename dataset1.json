@@ -1,0 +1,208 @@
+{
+  "intents": [
+    {
+      "Disease": "Fungalinfection",
+      "Symptoms": ["itching Impetigo nodal skin eruptions dischromic patches"]
+    },
+    {
+      "Disease": "Allergy",
+      "Symptoms": ["continuous sneezing shivering chills watering from eyes"]
+    },
+    {
+      "Disease": "GERD",
+      "Symptoms": [
+        "stomach pain acidity ulcers on tongue vomiting cough chest pain"
+      ]
+    },
+    {
+      "Disease": "Chroniccholestasis",
+      "Symptoms": [
+        "itching vomiting yellowish skin nausea loss of appetite abdominal pain yellowing of eyes"
+      ]
+    },
+    {
+      "Disease": "DrugReaction",
+      "Symptoms": [
+        "itching skin rash stomach pain burning micturition spotting urination"
+      ]
+    },
+    {
+      "Disease": "Pepticulcerdiseae",
+      "Symptoms": [
+        "vomiting loss of appetite abdominal pain passage of gases internal itching"
+      ]
+    },
+
+    {
+      "Disease": "Diabetes",
+      "Symptoms": [
+        "fatigue weight loss restlessness lethargy irregular sugar level blurred and distorted vision obesity excessive hunger increased appetite polyuria"
+      ]
+    },
+    {
+      "Disease": "Gastroenteritis",
+      "Symptoms": ["vomiting sunken eyes dehydration diarrhoea"]
+    },
+    {
+      "Disease": "BronchialAsthma",
+      "Symptoms": [
+        "fatigue cough high fever breathlessness family history mucoid sputum"
+      ]
+    },
+    {
+      "Disease": "Hypertension",
+      "Symptoms": [
+        "headache chest pain dizziness loss of balance lack of concentration"
+      ]
+    },
+    {
+      "Disease": "Migraine",
+      "Symptoms": [
+        "acidity indigestion headache blurry distorted vision ",
+        "acidity indigestion headache blurred and distorted vision excessive hunger stiff neck depression irritability visual disturbances"
+      ]
+    },
+    {
+      "Disease": "Cervicalspondylosis",
+      "Symptoms": [
+        "back pain weakness in limbs neck pain dizziness loss of balance"
+      ]
+    },
+    {
+      "Disease": "Paralysis(brainhemorrhage)",
+      "Symptoms": [
+        "vomiting headache weakness of one body side altered sensorium"
+      ]
+    },
+    {
+      "Disease": "Jaundice",
+      "Symptoms": [
+        "itching vomiting fatigue weight loss high fever yellowish skin dark urine abdominal pain",
+        "dark urine yellow skin abnormal stools",
+        "stomach pain high fever chills "
+      ]
+    },
+    {
+      "Disease": "Malaria",
+      "Symptoms": [
+        "chills vomiting high fever sweating headache nausea muscle pain",
+        "confusion loose motion shaking",
+        "chills increase heart rate heavy breathing sweating"
+      ]
+    },
+    {
+      "Disease": "Chickenpox",
+      "Symptoms": [
+        "high fever loss of appetite feeling tired stomach ache",
+        "red spots over body blisters"
+      ]
+    },
+    {
+      "Disease": "Dengue",
+      "Symptoms": [
+        "high fever headache red rash loss of appetite stomach pain blood in urine stools vomit",
+        "pain behind eyes bone pain joint pain blood in urine"
+      ]
+    },
+    {
+      "Disease": "Typhoid",
+      "Symptoms": [
+        "increasing fever Weight loss stomach pain diarrhea stomach pain",
+        "Headache muscle aches fatigue ",
+        "Weight loss stomach pain diarrhea stomach pain"
+      ]
+    },
+
+    {
+      "Disease": "Tuberculosis",
+      "Symptoms": [
+        "coughing blood mucus high fever",
+        "night sweats chills weight loss",
+        "chest pain breathing or coughing"
+      ]
+    },
+    {
+      "Disease": "CommonCold",
+      "Symptoms": [
+        "continuous sneezing chills fatigue cough high fever headache sore throat irritation redness of eyes runny nose chest pain muscle pain",
+        "sore throat runny nose difficulty in eating food",
+        "weakness high fever chills fever"
+      ]
+    },
+    {
+      "Disease": "Pneumonia",
+      "Symptoms": [
+        "chills fatigue cough high fever breathlessness sweating malaise chest pain fast heart rate rusty sputum"
+      ]
+    },
+    {
+      "Disease": "Dimorphichemmorhoids(piles)",
+      "Symptoms": [
+        "constipation pain during bowel movements pain in anal region bloody stool irritation in anus"
+      ]
+    },
+    {
+      "Disease": "Heartattack",
+      "Symptoms": ["vomiting breathlessness sweating chest pain"]
+    },
+
+    {
+      "Disease": "Hypothyroidism",
+      "Symptoms": [
+        "fatigue weight gain cold hands and feets mood swings lethargy dizziness puffy face and eyes enlarged thyroid brittle nails swollen extremeties depression irritability abnormal menstruation"
+      ]
+    },
+    {
+      "Disease": "Hyperthyroidism",
+      "Symptoms": [
+        "fatigue mood swings weight loss restlessness sweating diarrhoea fast heart rate excessive hunger muscle weakness irritability abnormal menstruation"
+      ]
+    },
+    {
+      "Disease": "Hypoglycemia",
+      "Symptoms": [
+        "vomiting fatigue anxiety sweating headache nausea blurred and distorted vision excessive hunger slurred speech irritability palpitations"
+      ]
+    },
+    {
+      "Disease": "Osteoarthristis",
+      "Symptoms": [
+        "joint pain neck pain knee pain hip joint pain swelling joints painful walking"
+      ]
+    },
+    {
+      "Disease": "Arthritis",
+      "Symptoms": [
+        "muscle weakness stiff neck swelling joints movement stiffness painful walking"
+      ]
+    },
+    {
+      "Disease": "(vertigo)ParoymsalPositionalVertigo",
+      "Symptoms": [
+        "vomiting headache nausea spinning movements loss of balance unsteadiness"
+      ]
+    },
+    {
+      "Disease": "Acne",
+      "Symptoms": ["skin rash pus filled pimples blackheads scurring"]
+    },
+    {
+      "Disease": "Urinarytractinfection",
+      "Symptoms": [
+        "burning micturition bladder discomfort foul smell ofurine continuous feel of urine"
+      ]
+    },
+    {
+      "Disease": "Psoriasis",
+      "Symptoms": [
+        "skin rash joint pain skin peeling silver like dusting small dents in nails inflammatory nails"
+      ]
+    },
+    {
+      "Disease": "Impetigo",
+      "Symptoms": [
+        "skin rash high fever blister red sore around nose yellow crust ooze"
+      ]
+    }
+  ]
+}

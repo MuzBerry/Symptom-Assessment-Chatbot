@@ -1,0 +1,548 @@
+{
+  "intents": [
+    {
+      "Disease_Num": "DiseaseNum 1",
+      "Disease": ["Fungal Infection"],
+      "Symptoms": [
+        "itching",
+        "Impetigo",
+        "nodal skin eruptions",
+        "dischromic patches"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 2",
+      "Disease": ["Allergy"],
+      "Symptoms": [
+        "continuous sneezing",
+        "shivering",
+        "chills",
+        "watering from eyes"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 3",
+      "Disease": ["GERD"],
+      "Symptoms": [
+        "stomach pain",
+        "acidity",
+        "ulcers on tongue",
+        "vomiting",
+        "cough",
+        "chest pain"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 4",
+      "Disease": ["Chroniccholestasis"],
+      "Symptoms": [
+        "itching",
+        "vomiting",
+        "yellowish skin",
+        "nausea",
+        "loss of appetite",
+        "abdominal pain",
+        "yellowing of eyes"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 5",
+      "Disease": ["DrugReaction"],
+      "Symptoms": [
+        "itching",
+        "skin rash",
+        "stomach pain",
+        "burning micturition",
+        "spotting urination"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 6",
+      "Disease": ["Pepticulcerdiseae"],
+      "Symptoms": [
+        "vomiting",
+        "loss of appetite",
+        "abdominal pain",
+        "passage of gases",
+        "internal itching"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 7",
+      "Disease": ["AIDS"],
+      "Symptoms": [
+        "muscle wasting",
+        "patches in throat",
+        "high fever",
+        "extra marital contacts"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 8",
+      "Disease": ["Diabetes"],
+      "Symptoms": [
+        "fatigue",
+        "weight loss",
+        "restlessness",
+        "lethargy",
+        "irregular sugar level",
+        "blurred and distorted vision",
+        "obesity",
+        "excessive hunger",
+        "increased appetite",
+        "polyuria"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 9",
+      "Disease": ["Gastroenteritis"],
+      "Symptoms": ["vomiting", "sunken eyes", "dehydration", "diarrhoea"]
+    },
+    {
+      "Disease_Num": "DiseaseNum 10",
+      "Disease": ["BronchialAsthma"],
+      "Symptoms": [
+        "fatigue",
+        "cough",
+        "high fever",
+        "breathlessness",
+        "family history",
+        "mucoid sputum"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 11",
+      "Disease": ["Hypertension"],
+      "Symptoms": [
+        "headache",
+        "chest pain",
+        "dizziness",
+        "loss of balance",
+        "lack of concentration"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 12",
+      "Disease": ["Migraine"],
+      "Symptoms": [
+        "acidity",
+        "indigestion",
+        "headache",
+        "blurred and distorted vision",
+        "excessive hunger",
+        "stiff neck",
+        "depression",
+        "irritability",
+        "visual disturbances"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 13",
+      "Disease": ["Cervicalspondylosis"],
+      "Symptoms": [
+        "back pain",
+        "weakness in limbs",
+        "neck pain",
+        "dizziness",
+        "loss of balance"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 14",
+      "Disease": ["Paralysis(brainhemorrhage)"],
+      "Symptoms": [
+        "vomiting",
+        "headache",
+        "weakness of one body side",
+        "altered sensorium"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 15",
+      "Disease": ["Jaundice"],
+      "Symptoms": [
+        "itching",
+        "vomiting",
+        "fatigue",
+        "weight loss",
+        "high fever",
+        "yellowish skin",
+        "dark urine",
+        "abdominal pain"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 16",
+      "Disease": ["Malaria"],
+      "Symptoms": [
+        "chills",
+        "vomiting",
+        "high fever",
+        "sweating",
+        "headache",
+        "nausea",
+        "muscle pain"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 17",
+      "Disease": ["Chickenpox"],
+      "Symptoms": [
+        "itching",
+        "skin rash",
+        "fatigue",
+        "lethargy",
+        "high fever",
+        "headache",
+        "loss of appetite",
+        "mild fever",
+        "swelled lymph nodes",
+        "malaise",
+        "red spots over body"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 18",
+      "Disease": ["Dengue"],
+      "Symptoms": [
+        "skin rash",
+        "chills",
+        "joint pain",
+        "vomiting",
+        "fatigue",
+        "high fever",
+        "headache",
+        "nausea",
+        "loss of appetite",
+        "pain behind the eyes",
+        "back pain",
+        "muscle pain",
+        "red spots over body"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 19",
+      "Disease": ["Typhoid"],
+      "Symptoms": [
+        "chills",
+        "vomiting",
+        "fatigue",
+        "high fever",
+        "nausea",
+        "constipation",
+        "abdominal pain",
+        "diarrhoea",
+        "toxic look (typhos)",
+        "belly pain"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 20",
+      "Disease": ["hepatitisA"],
+      "Symptoms": [
+        "joint pain",
+        "vomiting",
+        "yellowish skin",
+        "dark urine",
+        "nausea",
+        "loss of appetite",
+        "abdominal pain",
+        "diarrhoea",
+        "mild fever",
+        "yellowing of eyes",
+        "muscle pain"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 21",
+      "Disease": ["HepatitisB"],
+      "Symptoms": [
+        "itching",
+        "fatigue",
+        "lethargy",
+        "yellowish skin",
+        "dark urine",
+        "loss of appetite",
+        "abdominal pain",
+        "yellow urine",
+        "yellowing of eyes",
+        "malaise",
+        "receiving blood transfusion",
+        "receiving unsterile injections"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 22",
+      "Disease": ["HepatitisC"],
+      "Symptoms": [
+        "fatigue",
+        "yellowish skin",
+        "nausea",
+        "loss of appetite",
+        "family history"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 23",
+      "Disease": ["HepatitisD"],
+      "Symptoms": [
+        "joint pain",
+        "vomiting",
+        "fatigue",
+        "yellowish skin",
+        "dark urine",
+        "nausea",
+        "loss of appetite",
+        "abdominal pain",
+        "yellowing of eyes"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 24",
+      "Disease": ["HepatitisE"],
+      "Symptoms": [
+        "joint pain",
+        "vomiting",
+        "fatigue",
+        "high fever",
+        "yellowish skin",
+        "dark urine",
+        "nausea",
+        "loss of appetite",
+        "abdominal pain",
+        "yellowing of eyes",
+        "coma",
+        "stomach bleeding"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 25",
+      "Disease": ["Alcoholichepatitis"],
+      "Symptoms": [
+        "vomiting",
+        "yellowish skin",
+        "abdominal pain",
+        "swelling of stomach",
+        "distention of abdomen",
+        "history of alcohol consumption",
+        "fluid overload"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 26",
+      "Disease": ["Tuberculosis"],
+      "Symptoms": [
+        "chills",
+        "vomiting",
+        "fatigue",
+        "weight loss",
+        "cough",
+        "high fever",
+        "breathlessness",
+        "sweating",
+        "loss of appetite",
+        "mild fever",
+        "yellowing of eyes",
+        "swelled lymph nodes",
+        "malaise",
+        "phlegm",
+        "chest pain",
+        "blood in sputum"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 27",
+      "Disease": ["CommonCold"],
+      "Symptoms": [
+        "continuous sneezing",
+        "chills",
+        "fatigue",
+        "cough",
+        "high fever",
+        "headache",
+        "swelled lymph nodes",
+        "malaise",
+        "phlegm",
+        "throat irritation",
+        "redness of eyes",
+        "sinus pressure",
+        "runny nose",
+        "congestion",
+        "chest pain",
+        "loss of smell",
+        "muscle pain"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 28",
+      "Disease": ["Pneumonia"],
+      "Symptoms": [
+        "chills",
+        "fatigue",
+        "cough",
+        "high fever",
+        "breathlessness",
+        "sweating",
+        "malaise",
+        "chest pain",
+        "fast heart rate",
+        "rusty sputum"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 29",
+      "Disease": ["Dimorphichemmorhoids(piles)"],
+      "Symptoms": [
+        "constipation",
+        "pain during bowel movements",
+        "pain in anal region",
+        "bloody stool",
+        "irritation in anus"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 30",
+      "Disease": ["Heartattack"],
+      "Symptoms": ["vomiting", "breathlessness", "sweating", "chest pain"]
+    },
+    {
+      "Disease_Num": "DiseaseNum 31",
+      "Disease": ["Varicoseveins"],
+      "Symptoms": [
+        "fatigue",
+        "cramps",
+        "bruising",
+        "obesity",
+        "swollen legs",
+        "swollen blood vessels",
+        "prominent veins on calf"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 32",
+      "Disease": ["Hypothyroidism"],
+      "Symptoms": [
+        "fatigue",
+        "weight gain",
+        "cold hands and feets",
+        "mood swings",
+        "lethargy",
+        "dizziness",
+        "puffy face and eyes",
+        "enlarged thyroid",
+        "brittle nails",
+        "swollen extremeties",
+        "depression",
+        "irritability",
+        "abnormal menstruation"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 33",
+      "Disease": ["Hyperthyroidism"],
+      "Symptoms": [
+        "fatigue",
+        "mood swings",
+        "weight loss",
+        "restlessness",
+        "sweating",
+        "diarrhoea",
+        "fast heart rate",
+        "excessive hunger",
+        "muscle weakness",
+        "irritability",
+        "abnormal menstruation"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 34",
+      "Disease": ["Hypoglycemia"],
+      "Symptoms": [
+        "vomiting",
+        "fatigue",
+        "anxiety",
+        "sweating",
+        "headache",
+        "nausea",
+        "blurred and distorted vision",
+        "excessive hunger",
+        "slurred speech",
+        "irritability",
+        "palpitations"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 35",
+      "Disease": ["Osteoarthristis"],
+      "Symptoms": [
+        "joint pain",
+        "neck pain",
+        "knee pain",
+        "hip joint pain",
+        "swelling joints",
+        "painful walking"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 36",
+      "Disease": ["Arthritis"],
+      "Symptoms": [
+        "muscle weakness",
+        "stiff neck",
+        "swelling joints",
+        "movement stiffness",
+        "painful walking"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 37",
+      "Disease": ["(vertigo)ParoymsalPositionalVertigo"],
+      "Symptoms": [
+        "vomiting",
+        "headache",
+        "nausea",
+        "spinning movements",
+        "loss of balance",
+        "unsteadiness"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 38",
+      "Disease": ["Acne"],
+      "Symptoms": ["skin rash", "pus filled pimples", "blackheads", "scurring"]
+    },
+    {
+      "Disease_Num": "DiseaseNum 39",
+      "Disease": ["Urinarytractinfection"],
+      "Symptoms": [
+        "burning micturition",
+        "bladder discomfort",
+        "foul smell ofurine",
+        "continuous feel of urine"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 40",
+      "Disease": ["Psoriasis"],
+      "Symptoms": [
+        "skin rash",
+        "joint pain",
+        "skin peeling",
+        "silver like dusting",
+        "small dents in nails",
+        "inflammatory nails"
+      ]
+    },
+    {
+      "Disease_Num": "DiseaseNum 41",
+      "Disease": ["Impetigo"],
+      "Symptoms": [
+        "skin rash",
+        "high fever",
+        "blister",
+        "red sore around nose",
+        "yellow crust ooze"
+      ]
+    }
+  ]
+}

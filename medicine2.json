@@ -1,0 +1,724 @@
+{
+  "intent": [
+    {
+      "Medicine_Number": "Medicine1",
+      "Medicine Name": ["Azax 500 Tablet", "Azax", "500", "Tablet"],
+      "Uses": ["Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "71.25"
+    },
+    {
+      "Medicine_Number": "Medicine2",
+      "Medicine Name": ["Aldactone Tablet", "Aldactone", "Tablet"],
+      "Uses": [
+        "Hypertension (high blood pressure)",
+        "Edema",
+        "Low potassium",
+        "Heart failure"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "31.8"
+    },
+    {
+      "Medicine_Number": "Medicine3",
+      "Medicine Name": ["Axcer  90mg Tablet", "Axcer", "90mg", "Tablet"],
+      "Uses": ["Prevention of heart attack and stroke"],
+      "Prescription": "Prescription Required",
+      "MRP": "420"
+    },
+    {
+      "Medicine_Number": "Medicine4",
+      "Medicine Name": ["Antiflu 75mg Capsule", "Antiflu", "75mg", "Capsule"],
+      "Uses": ["Influenza (flu)"],
+      "Prescription": "Prescription Required",
+      "MRP": "660.66"
+    },
+    {
+      "Medicine_Number": "Medicine5",
+      "Medicine Name": ["Altraday Capsule SR", "Altraday", "Capsule", "SR"],
+      "Uses": ["Pain relief"],
+      "Prescription": "Prescription Required",
+      "MRP": "112"
+    },
+    {
+      "Medicine_Number": "Medicine6",
+      "Medicine Name": ["Amoxyclav 625 Tablet", "Amoxyclav", "625", "Tablet"],
+      "Uses": ["Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "113.25"
+    },
+    {
+      "Medicine_Number": "Medicine7",
+      "Medicine Name": ["Azoran Tablet", "Azoran", "Tablet"],
+      "Uses": [
+        "Prevention of organ rejection in transplant patients",
+        "Rheumatoid arthritis"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "106.1"
+    },
+    {
+      "Medicine_Number": "Medicine8",
+      "Medicine Name": ["Avomine Tablet", "Avomine", "Tablet"],
+      "Uses": [
+        "Nausea",
+        "Vomiting",
+        "Treatment of Allergic conditions",
+        "Motion sickness"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "46.27"
+    },
+    {
+      "Medicine_Number": "Medicine9",
+      "Medicine Name": ["Amlokind 5 Tablet", "Amlokind", "5", "Tablet"],
+      "Uses": [
+        "Hypertension (high blood pressure)",
+        "Prevention of Angina (heart-related chest pain)"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "13.27"
+    },
+    {
+      "Medicine_Number": "Medicine10",
+      "Medicine Name": ["Ativan 2mg Tablet", "Ativan", "2mg", "Tablet"],
+      "Uses": [
+        "Treatment of Short term anxiety",
+        "Treatment of Anxiety disorder"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "82.55"
+    },
+    {
+      "Medicine_Number": "Medicine11",
+      "Medicine Name": ["Azicip 500 Tablet", "Azicip", "500", "Tablet"],
+      "Uses": ["Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "71.33"
+    },
+    {
+      "Medicine_Number": "Medicine12",
+      "Medicine Name": [
+        "Betadine 2% Gargle Mint",
+        "Betadine",
+        "2%",
+        "Gargle",
+        "Mint"
+      ],
+      "Uses": [
+        "Treatment of Mouth infection",
+        "Treatment of Sore throat",
+        "Treatment of Dry mouth"
+      ],
+      "Prescription": "N",
+      "MRP": "140"
+    },
+    {
+      "Medicine_Number": "Medicine13",
+      "Medicine Name": ["Benadryl Syrup", "Benadryl", "Syrup"],
+      "Uses": ["Cough"],
+      "Prescription": "Prescription Required",
+      "MRP": "118"
+    },
+    {
+      "Medicine_Number": "Medicine14",
+      "Medicine Name": ["Bro Zedex  Syrup", "Bro", "Zedex", "Syrup"],
+      "Uses": ["Cough"],
+      "Prescription": "Prescription Required",
+      "MRP": "129.75"
+    },
+    {
+      "Medicine_Number": "Medicine15",
+      "Medicine Name": ["Betnovate C Cream", "Betnovate", "C", "Cream"],
+      "Uses": [
+        "Bacterial skin infections",
+        "Fungal skin infections",
+        "Skin conditions with inflammation & itching"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "53.3"
+    },
+    {
+      "Medicine_Number": "Medicine16",
+      "Medicine Name": [
+        "Bandy Plus Chewable Tablet",
+        "Bandy",
+        "Plus",
+        "Chewable",
+        "Tablet"
+      ],
+      "Uses": ["Worm infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "25"
+    },
+    {
+      "Medicine_Number": "Medicine17",
+      "Medicine Name": ["Betnesol Tablet", "Betnesol", "Tablet"],
+      "Uses": ["Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "12.85"
+    },
+    {
+      "Medicine_Number": "Medicine18",
+      "Medicine Name": ["Brufen 400 Tablet", "Brufen", "400", "Tablet"],
+      "Uses": ["Pain relief", "Fever"],
+      "Prescription": "Prescription Required",
+      "MRP": "11.59"
+    },
+    {
+      "Medicine_Number": "Medicine19",
+      "Medicine Name": ["Brilinta 90mg Tablet", "Brilinta", "90mg", "Tablet"],
+      "Uses": ["Prevention of heart attack and stroke"],
+      "Prescription": "Prescription Required",
+      "MRP": "420"
+    },
+    {
+      "Medicine_Number": "Medicine20",
+      "Medicine Name": ["Betadine 10% Solution", "Betadine", "10%", "Solution"],
+      "Uses": ["Prevention of Wound infection"],
+      "Prescription": "N",
+      "MRP": "104.16"
+    },
+    {
+      "Medicine_Number": "Medicine21",
+      "Medicine Name": [
+        "Budecort 0.5mg Respules 2ml",
+        "Budecort",
+        "0.5mg",
+        "Respules",
+        "2ml"
+      ],
+      "Uses": ["Treatment and prevention of Asthma"],
+      "Prescription": "Prescription Required",
+      "MRP": "118.85"
+    },
+    {
+      "Medicine_Number": "Medicine22",
+      "Medicine Name": ["Benzac AC 2.5% Gel", "Benzac", "AC", "2.5%", "Gel"],
+      "Uses": ["Acne"],
+      "Prescription": "N",
+      "MRP": "83"
+    },
+    {
+      "Medicine_Number": "Medicine23",
+      "Medicine Name": [
+        "Bandy Plus 12 Tablet",
+        "Bandy",
+        "Plus",
+        "12",
+        "Tablet"
+      ],
+      "Uses": ["Worm infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "30"
+    },
+    {
+      "Medicine_Number": "Medicine24",
+      "Medicine Name": [
+        "Betacap TR 40 Capsule",
+        "Betacap",
+        "TR",
+        "40",
+        "Capsule"
+      ],
+      "Uses": [
+        "Hypertension (high blood pressure)",
+        "Anxiety",
+        "Arrhythmia",
+        "Prevention of Heart attack",
+        "Prevention of Angina (heart-related chest pain)",
+        "Prevention of Migraine"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "42.44"
+    },
+    {
+      "Medicine_Number": "Medicine25",
+      "Medicine Name": ["Buscopan 10mg Tablet", "Buscopan", "10mg", "Tablet"],
+      "Uses": [
+        "Treatment of Pain due to smooth muscle spasm",
+        "Treatment of Irritable bowel syndrome"
+      ],
+      "Prescription": "N",
+      "MRP": "39.5"
+    },
+    {
+      "Medicine_Number": "Medicine26",
+      "Medicine Name": ["Broclear Tablet", "Broclear", "Tablet"],
+      "Uses": ["Chronic obstructive pulmonary disease (COPD)"],
+      "Prescription": "Prescription Required",
+      "MRP": "191"
+    },
+    {
+      "Medicine_Number": "Medicine27",
+      "Medicine Name": ["Betnovate N  Cream", "Betnovate", "N", "Cream"],
+      "Uses": ["Treatment of Bacterial skin infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "36.6"
+    },
+    {
+      "Medicine_Number": "Medicine28",
+      "Medicine Name": ["Banocide Forte Tablet", "Banocide", "Forte", "Tablet"],
+      "Uses": ["Worm infections", "Filariasis"],
+      "Prescription": "Prescription Required",
+      "MRP": "43.39"
+    },
+    {
+      "Medicine_Number": "Medicine29",
+      "Medicine Name": ["Betnovate GM Cream", "Betnovate", "GM", "Cream"],
+      "Uses": ["Skin infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "31"
+    },
+    {
+      "Medicine_Number": "Medicine30",
+      "Medicine Name": ["Bilasure 20 Tablet", "Bilasure", "20", "Tablet"],
+      "Uses": ["Treatment of Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "118"
+    },
+    {
+      "Medicine_Number": "Medicine31",
+      "Medicine Name": ["Bandy Plus Suspension", "Bandy", "Plus", "Suspension"],
+      "Uses": ["Treatment of Parasitic Worm infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "33"
+    },
+    {
+      "Medicine_Number": "Medicine32",
+      "Medicine Name": ["Betaloc 25mg Tablet", "Betaloc", "25mg", "Tablet"],
+      "Uses": [
+        "Treatment of Hypertension (high blood pressure)",
+        "Treatment of Angina (heart-related chest pain)",
+        "Treatment of Arrhythmia",
+        "Prevention of Heart attack",
+        "Prevention of Migraine"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "98.4"
+    },
+    {
+      "Medicine_Number": "Medicine33",
+      "Medicine Name": ["Betadine 10% Ointment", "Betadine", "10%", "Ointment"],
+      "Uses": ["Prevention of Wound infection"],
+      "Prescription": "N",
+      "MRP": "85.5"
+    },
+    {
+      "Medicine_Number": "Medicine34",
+      "Medicine Name": ["Benadryl DR Syrup", "Benadryl", "DR", "Syrup"],
+      "Uses": ["Treatment of Dry cough"],
+      "Prescription": "Prescription Required",
+      "MRP": "102"
+    },
+    {
+      "Medicine_Number": "Medicine35",
+      "Medicine Name": [
+        "Betnesol N Eye/Ear Drops",
+        "Betnesol",
+        "N",
+        "Eye/Ear",
+        "Drops"
+      ],
+      "Uses": ["Treatment of Bacterial eye / ear infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "16.55"
+    },
+    {
+      "Medicine_Number": "Medicine36",
+      "Medicine Name": ["Betnesol Forte Tablet", "Betnesol", "Forte", "Tablet"],
+      "Uses": ["Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "19.4"
+    },
+    {
+      "Medicine_Number": "Medicine37",
+      "Medicine Name": ["Benxop Face Wash", "Benxop", "Face", "Wash"],
+      "Uses": ["Acne"],
+      "Prescription": "N",
+      "MRP": "187"
+    },
+    {
+      "Medicine_Number": "Medicine38",
+      "Medicine Name": ["Betamil GM Cream", "Betamil", "GM", "Cream"],
+      "Uses": ["Skin infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "32.93"
+    },
+    {
+      "Medicine_Number": "Medicine39",
+      "Medicine Name": ["Bandy Suspension", "Bandy", "Suspension"],
+      "Uses": ["Treatment of Parasitic Worm infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "17.78"
+    },
+    {
+      "Medicine_Number": "Medicine40",
+      "Medicine Name": [
+        "Asthalin 100mcg Inhaler",
+        "Asthalin",
+        "100mcg",
+        "Inhaler"
+      ],
+      "Uses": ["Asthma", "Chronic obstructive pulmonary disease (COPD)"],
+      "Prescription": "Prescription Required",
+      "MRP": "141.75"
+    },
+    {
+      "Medicine_Number": "Medicine41",
+      "Medicine Name": ["Allegra 180mg Tablet", "Allegra", "180mg", "Tablet"],
+      "Uses": ["Treatment of Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "207.62"
+    },
+    {
+      "Medicine_Number": "Medicine42",
+      "Medicine Name": [
+        "Alfoo 10mg Tablet PR",
+        "Alfoo",
+        "10mg",
+        "Tablet",
+        "PR"
+      ],
+      "Uses": ["Treatment of Benign prostatic hyperplasia"],
+      "Prescription": "Prescription Required",
+      "MRP": "568.5"
+    },
+    {
+      "Medicine_Number": "Medicine43",
+      "Medicine Name": ["Ativan 1mg Tablet", "Ativan", "1mg", "Tablet"],
+      "Uses": ["Short term anxiety", "Anxiety disorder"],
+      "Prescription": "Prescription Required",
+      "MRP": "68"
+    },
+    {
+      "Medicine_Number": "Medicine44",
+      "Medicine Name": ["Aptimust Syrup", "Aptimust", "Syrup"],
+      "Uses": ["Appetite stimulant"],
+      "Prescription": "Prescription Required",
+      "MRP": "121"
+    },
+    {
+      "Medicine_Number": "Medicine45",
+      "Medicine Name": [
+        "Arachitol 6L Injection",
+        "Arachitol",
+        "6L",
+        "Injection"
+      ],
+      "Uses": [
+        "Treatment of Vitamin D deficiency",
+        "Treatment of Osteoporosis"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "370.74"
+    },
+    {
+      "Medicine_Number": "Medicine46",
+      "Medicine Name": ["Amaryl 1mg Tablet", "Amaryl", "1mg", "Tablet"],
+      "Uses": ["Type 2 diabetes mellitus"],
+      "Prescription": "Prescription Required",
+      "MRP": "120.16"
+    },
+    {
+      "Medicine_Number": "Medicine47",
+      "Medicine Name": ["Alkasol Oral Solution", "Alkasol", "Oral", "Solution"],
+      "Uses": ["Treatment of Gout", "Treatment of Kidney stone"],
+      "Prescription": "N",
+      "MRP": "115.14"
+    },
+    {
+      "Medicine_Number": "Medicine48",
+      "Medicine Name": ["Althrocin 500 Tablet", "Althrocin", "500", "Tablet"],
+      "Uses": ["Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "92"
+    },
+    {
+      "Medicine_Number": "Medicine49",
+      "Medicine Name": [
+        "Alprax 0.5mg Tablet SR",
+        "Alprax",
+        "0.5mg",
+        "Tablet",
+        "SR"
+      ],
+      "Uses": ["Anxiety", "Panic disorder"],
+      "Prescription": "Prescription Required",
+      "MRP": "55.6"
+    },
+    {
+      "Medicine_Number": "Medicine50",
+      "Medicine Name": ["Akt 4 Kit", "Akt", "4", "Kit"],
+      "Uses": ["Tuberculosis (TB)"],
+      "Prescription": "Prescription Required",
+      "MRP": "22.55"
+    },
+    {
+      "Medicine_Number": "Medicine51",
+      "Medicine Name": [
+        "ACTEMRA 80 MG INJECTION",
+        "ACTEMRA",
+        "80",
+        "MG",
+        "INJECTION"
+      ],
+      "Uses": [
+        "Ankylosing spondylitis",
+        "Rheumatoid arthritis",
+        "Psoriasis",
+        "Ulcerative colitis",
+        "Crohn\u00e2\u20ac\u2122s disease"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "8112"
+    },
+    {
+      "Medicine_Number": "Medicine52",
+      "Medicine Name": ["Ambrodil S Syrup", "Ambrodil", "S", "Syrup"],
+      "Uses": ["Cough"],
+      "Prescription": "Prescription Required",
+      "MRP": "27.6"
+    },
+    {
+      "Medicine_Number": "Medicine53",
+      "Medicine Name": [
+        "Asthakind DX Syrup Sugar Free",
+        "Asthakind",
+        "DX",
+        "Syrup",
+        "Sugar",
+        "Free"
+      ],
+      "Uses": ["Dry cough"],
+      "Prescription": "Prescription Required",
+      "MRP": "60"
+    },
+    {
+      "Medicine_Number": "Medicine54",
+      "Medicine Name": ["AB Phylline Capsule", "AB", "Phylline", "Capsule"],
+      "Uses": ["Asthma", "Chronic obstructive pulmonary disease (COPD)"],
+      "Prescription": "Prescription Required",
+      "MRP": "135"
+    },
+    {
+      "Medicine_Number": "Medicine55",
+      "Medicine Name": ["AB Flo N Tablet", "AB", "Flo", "N", "Tablet"],
+      "Uses": ["Chronic obstructive pulmonary disease (COPD)"],
+      "Prescription": "Prescription Required",
+      "MRP": "188.5"
+    },
+    {
+      "Medicine_Number": "Medicine56",
+      "Medicine Name": ["Aztor 10 Tablet", "Aztor", "10", "Tablet"],
+      "Uses": ["High cholesterol", "Prevention of Heart attack"],
+      "Prescription": "Prescription Required",
+      "MRP": "91.85"
+    },
+    {
+      "Medicine_Number": "Medicine57",
+      "Medicine Name": [
+        "Asthakind Expectorant Sugar Free",
+        "Asthakind",
+        "Expectorant",
+        "Sugar",
+        "Free"
+      ],
+      "Uses": ["Cough with mucus"],
+      "Prescription": "Prescription Required",
+      "MRP": "53.09"
+    },
+    {
+      "Medicine_Number": "Medicine58",
+      "Medicine Name": [
+        "Augmentin Duo Oral Suspension",
+        "Augmentin",
+        "Duo",
+        "Oral",
+        "Suspension"
+      ],
+      "Uses": [
+        "Treatment of Bacterial infections",
+        "Treatment of Resistance Tuberculosis (TB)"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "60.48"
+    },
+    {
+      "Medicine_Number": "Medicine59",
+      "Medicine Name": [
+        "Anafortan 25 mg/300 mg Tablet",
+        "Anafortan",
+        "25",
+        "mg/300",
+        "mg",
+        "Tablet"
+      ],
+      "Uses": ["Abdominal pain"],
+      "Prescription": "Prescription Required",
+      "MRP": "113.24"
+    },
+    {
+      "Medicine_Number": "Medicine60",
+      "Medicine Name": ["Avil Injection", "Avil", "Injection"],
+      "Uses": ["Allergic conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "5.11"
+    },
+    {
+      "Medicine_Number": "Medicine61",
+      "Medicine Name": ["Alzumab L Injection", "Alzumab", "L", "Injection"],
+      "Uses": ["Psoriasis"],
+      "Prescription": "Prescription Required",
+      "MRP": "31800"
+    },
+    {
+      "Medicine_Number": "Medicine62",
+      "Medicine Name": ["Aceclo Plus Tablet", "Aceclo", "Plus", "Tablet"],
+      "Uses": ["Pain relief"],
+      "Prescription": "Prescription Required",
+      "MRP": "76"
+    },
+    {
+      "Medicine_Number": "Medicine63",
+      "Medicine Name": ["Aquasol A Capsule", "Aquasol", "A", "Capsule"],
+      "Uses": ["Treatment of Vitamin A deficiency"],
+      "Prescription": "N",
+      "MRP": "27"
+    },
+    {
+      "Medicine_Number": "Medicine64",
+      "Medicine Name": [
+        "Alkasol Oral Solution Sugar Free",
+        "Alkasol",
+        "Oral",
+        "Solution",
+        "Sugar",
+        "Free"
+      ],
+      "Uses": ["Treatment of Gout", "Treatment of Kidney stone"],
+      "Prescription": "N",
+      "MRP": "104.69"
+    },
+    {
+      "Medicine_Number": "Medicine65",
+      "Medicine Name": ["Amitone 10mg Tablet", "Amitone", "10mg", "Tablet"],
+      "Uses": ["Depression", "Neuropathic pain", "Migraine"],
+      "Prescription": "Prescription Required",
+      "MRP": "17.2"
+    },
+    {
+      "Medicine_Number": "Medicine66",
+      "Medicine Name": [
+        "Alzumab 25mg Injection",
+        "Alzumab",
+        "25mg",
+        "Injection"
+      ],
+      "Uses": ["Psoriasis"],
+      "Prescription": "Prescription Required",
+      "MRP": "8229.76"
+    },
+    {
+      "Medicine_Number": "Medicine67",
+      "Medicine Name": ["Acitrom 2 Tablet", "Acitrom", "2", "Tablet"],
+      "Uses": ["Treatment and prevention of Blood clots"],
+      "Prescription": "Prescription Required",
+      "MRP": "377.3"
+    },
+    {
+      "Medicine_Number": "Medicine68",
+      "Medicine Name": ["Anobliss Cream", "Anobliss", "Cream"],
+      "Uses": ["Anal fissure"],
+      "Prescription": "Prescription Required",
+      "MRP": "114"
+    },
+    {
+      "Medicine_Number": "Medicine69",
+      "Medicine Name": ["Almox 500 Capsule", "Almox", "500", "Capsule"],
+      "Uses": ["Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "72.09"
+    },
+    {
+      "Medicine_Number": "Medicine70",
+      "Medicine Name": ["Combiflam Tablet", "Combiflam", "Tablet"],
+      "Uses": ["Pain relief", "Fever"],
+      "Prescription": "Prescription Required",
+      "MRP": "38.07"
+    },
+    {
+      "Medicine_Number": "Medicine71",
+      "Medicine Name": ["Chymoral Forte Tablet", "Chymoral", "Forte", "Tablet"],
+      "Uses": ["Treatment of Pain relief", "Treatment of Swelling"],
+      "Prescription": "Prescription Required",
+      "MRP": "405.2"
+    },
+    {
+      "Medicine_Number": "Medicine84",
+      "Medicine Name": ["Cypon Syrup", "Cypon", "Syrup"],
+      "Uses": ["Appetite stimulant"],
+      "Prescription": "Prescription Required",
+      "MRP": "98"
+    },
+    {
+      "Medicine_Number": "Medicine924",
+      "Medicine Name": ["Azithral 200 Liquid", "Azithral", "200", "Liquid"],
+      "Uses": ["Treatment of Bacterial infections"],
+      "Prescription": "Prescription Required",
+      "MRP": "51.7"
+    },
+    {
+      "Medicine_Number": "Medicine130",
+      "Medicine Name": ["Betnovate Cream", "Betnovate", "Cream"],
+      "Uses": ["Treatment of Allergic skin conditions"],
+      "Prescription": "Prescription Required",
+      "MRP": "18.69"
+    },
+    {
+      "Medicine_Number": "Medicine982",
+      "Medicine Name": ["Rantac 150 Tablet", "Rantac", "150", "Tablet"],
+      "Uses": [
+        "Heartburn",
+        "Gastroesophageal reflux disease (Acid reflux)",
+        "Peptic ulcer disease"
+      ],
+      "Prescription": "Prescription Required",
+      "MRP": "24.64"
+    },
+    {
+      "Medicine_Number": "Medicine81",
+      "Medicine Name": ["Crocin Advance Tablet", "Crocin", "Advance", "Tablet"],
+      "Uses": ["Pain relief", "Fever"],
+      "Prescription": "N",
+      "MRP": "20.38"
+    },
+    {
+      "Medicine_Number": "Medicine207",
+      "Medicine Name": [
+        "Crocin Pain Relief Tablet",
+        "Crocin",
+        "Pain",
+        "Relief",
+        "Tablet"
+      ],
+      "Uses": ["Treatment of Headache"],
+      "Prescription": "N",
+      "MRP": "65.73"
+    },
+    {
+      "Medicine_Number": "Medicine625",
+      "Medicine Name": ["Dologel", "Dologel"],
+      "Uses": ["Treatment of Mouth ulcers"],
+      "Prescription": "N",
+      "MRP": "82.25"
+    },
+    {
+      "Medicine_Number": "Medicine291",
+      "Medicine Name": ["Dolo 500 Tablet", "Dolo", "500", "Tablet"],
+      "Uses": ["Pain relief", "Fever"],
+      "Prescription": "N",
+      "MRP": "15.29"
+    }
+  ]
+}
