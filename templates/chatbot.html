@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="static/styles/chatbot.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&family=Stylish&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="{{url_for('static', filename='/scripts/ajax.js')}}"></script>
+
+    <title>Chatbot front end</title>
+  </head>
+  <body>
+    <div class="loader">
+      <div></div>
+    </div>
+    <section class="chatbot-body">
+      <div class="chatbot-tittle">
+        <div class="chatbot-tittle-image-container">
+          <img src="/static/pharmacy.png" alt="" class="tittle-icon-1" />
+        </div>
+        Medico
+        <div class="chatbot-tittle-image-container">
+          <img src="/static/healthcare.png" alt="" class="tittle-icon-2" />
+        </div>
+      </div>
+      <main class="chat">
+        <!-- <div class="msg left-chat ">
+                <div class="chat-image-container">
+                    <img src="/static/doctor.png" alt="" class="chat-image">
+                </div>
+                <div class="chat-box">
+                    <div class="chatter">
+                        <div class="chatter-name">Medico</div>
+                        <div class="chatter-time">{{currentTime}}</div>
+                    </div>
+                    <div class="chat-text">
+                        Hello this is Medico!
+                    </div>
+                </div>
+            </div>
+            <div class="msg left-chat ">
+                <div class="chat-image-container">
+                    <img src="/static/doctor.png" alt="" class="chat-image">
+                </div>
+                <div class="chat-box">
+                    <div class="chatter">
+                        <div class="chatter-name">Medico</div>
+                        <div class="chatter-time">{{currentTime}}</div>
+                    </div>
+                    <div class="chat-text">
+                        Please choose one of the options give below.
+                    </div>
+                </div>
+            </div>
+            <div class="msg left-chat  ">
+                <div class="chat-image-container">
+                    <img src="/static/doctor.png" alt="" class="chat-image">
+                </div>
+                <div class="chat-box">
+                    <div class="chatter">
+                        <div class="chatter-name">Medico</div>
+                        <div class="chatter-time">{{currentTime}}</div>
+                    </div>
+                    <div class="chat-text">
+                        <ol>
+                            {% for i in menu_options %}
+                            <li>{{i}}</li>
+                            {%endfor%}
+                        </ol>
+                        
+                    </div>
+                </div>
+            </div>
+            -->
+      </main>
+
+      <form action="" class="input-area" id="input-area">
+        <input
+          type="text"
+          class="input-text"
+          ,
+          id="input-text"
+          placeholder="Enter something"
+        />
+        <button type="submit" class="input-button" , id="input-button">
+          Send
+        </button>
+      </form>
+    </section>
+    <script>
+      $(window).on("load", function () {
+        $(".loader").fadeOut(2000);
+        $(".chatbot-body").css("display", "flex");
+        $(".chatbot-body").fadeIn(4000);
+        const msg1 = `<div class="msg left-chat ">
+                <div class="chat-image-container">
+                    <img src="/static/doctor.png" alt="" class="chat-image">
+                </div>
+                <div class="chat-box">
+                    <div class="chatter">
+                        <div class="chatter-name">Medico</div>
+                        <div class="chatter-time">{{currentTime}}</div>
+                    </div>
+                    <div class="chat-text">
+                        Hello this is Medico!
+                    </div>
+                </div>
+            </div>`;
+        const msg2 = `<div class="msg left-chat ">
+                <div class="chat-image-container">
+                    <img src="/static/doctor.png" alt="" class="chat-image">
+                </div>
+                <div class="chat-box">
+                    <div class="chatter">
+                        <div class="chatter-name">Medico</div>
+                        <div class="chatter-time">{{currentTime}}</div>
+                    </div>
+                    <div class="chat-text">
+                        Please choose one of the options give below.
+                    </div>
+                </div>
+            </div>`;
+        const msg3 = `<div class="msg left-chat  ">
+                <div class="chat-image-container">
+                    <img src="/static/doctor.png" alt="" class="chat-image">
+                </div>
+                <div class="chat-box">
+                    <div class="chatter">
+                        <div class="chatter-name">Medico</div>
+                        <div class="chatter-time">{{currentTime}}</div>
+                    </div>
+                    <div class="chat-text">
+                        <ol>
+                            {% for i in menu_options %}
+                            <li>{{i}}</li>
+                            {%endfor%}
+                        </ol>
+                        
+                    </div>
+                </div>
+            </div>`;
+        setTimeout(() => {
+          $(".chat").append(msg1);
+        }, 1500);
+        setTimeout(() => {
+          $(".chat").append(msg2);
+        }, 3000);
+        setTimeout(() => {
+          $(".chat").append(msg3);
+        }, 4500);
+      });
+
+      // get the chat container element
+      const chatContainer = document.querySelector("#chat-container");
+
+      // function to scroll the chat container to the bottom
+      function scrollToBottom() {
+        chatContainer.scrollTop = chatContainer.scrollHeight;
+      }
+
+      // attach an event listener to the chat container
+      chatContainer.addEventListener("DOMNodeInserted", () => {
+        // scroll to the bottom whenever a new message is added
+        scrollToBottom();
+      });
+    </script>
+    <!-- <a href="https://www.flaticon.com/free-icons/healthcare-and-medical" title="healthcare and medical icons">Healthcare and medical icons created by Freepik - Flaticon</a> -->
+  </body>
+</html>
